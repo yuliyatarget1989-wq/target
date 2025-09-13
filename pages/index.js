@@ -11,7 +11,7 @@ export default function Home() {
       <header style={{background:'#7B2D26', color:'#fff', padding:20}}>
         <div style={{maxWidth:1100, margin:'0 auto', display:'flex', alignItems:'center', justifyContent:'space-between'}}>
           <div style={{display:'flex', alignItems:'center', gap:12}}>
-            <img src="/images/logo.svg" alt="Target Advance" style={{height:44}}/>
+<img src="/logo.svg" alt="Target Advance" style={{height:44}}/>
             <strong>Target Advance</strong>
           </div>
           <nav style={{display:'flex', gap:16}}>
